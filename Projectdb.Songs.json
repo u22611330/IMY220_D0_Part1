@@ -1,0 +1,100 @@
+[{
+  "_id": "song1",
+  "spotifyLink": "https://open.spotify.com/track/6TJnUcx629j1lZaToObldz?si=8962adbeb5a942cd",
+  "addedBy": "user123",
+  "dateCreated": "20/01/2024",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song2",
+  "spotifyLink": "https://open.spotify.com/track/7ycJgmngKa8yKtNPamHWXr?si=3965ae9bb11c44c1",
+  "addedBy": "user123",
+  "dateCreated": "20/01/2024",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song3",
+  "spotifyLink": "https://open.spotify.com/track/5DgY6Ab0vpyUMKnY9ubFOF?si=7be86ca438694f5c",
+  "addedBy": "user456",
+  "dateCreated": "20/01/2024",
+  "comments": [
+    "comment5"
+  ],
+  "likes": []
+},
+{
+  "_id": "song4",
+  "spotifyLink": "https://open.spotify.com/track/0NAUzrHSWZwDCFsAT5fBV4?si=29dace7d6a304e26",
+  "addedBy": "user456",
+  "dateCreated": "20/01/2024",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song5",
+  "spotifyLink": "https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3?si=e574278b17054fe8",
+  "addedBy": "user456",
+  "dateCreated": "20/01/2024",
+  "comments": [],
+  "likes": [
+    "user123"
+  ]
+},
+{
+  "_id": "song1727999176481",
+  "spotifyLink": "https://open.spotify.com/track/3h9UdkxpoUQxNqS8IeTC4Z?si=56d576f779434078",
+  "addedBy": "user123",
+  "dateCreated": "10/4/2024",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song1728013240468",
+  "spotifyLink": "https://open.spotify.com/track/3VgZsBppPcxxFlA5863XBp?si=89cab4dfbc3d4e5d",
+  "addedBy": "user123",
+  "dateCreated": "2024-10-04T03:40:40.468Z",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song1728013240515",
+  "spotifyLink": "https://open.spotify.com/track/3VgZsBppPcxxFlA5863XBp?si=89cab4dfbc3d4e5d",
+  "addedBy": "user123",
+  "dateCreated": "2024-10-04T03:40:40.515Z",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song1728020564624",
+  "spotifyLink": "https://open.spotify.com/track/3VgZsBppPcxxFlA5863XBp?si=db5eea64df02413e",
+  "addedBy": "user123",
+  "dateCreated": "2024-10-04T05:42:44.624Z",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song1728020564755",
+  "spotifyLink": "https://open.spotify.com/track/3VgZsBppPcxxFlA5863XBp?si=db5eea64df02413e",
+  "addedBy": "user123",
+  "dateCreated": "2024-10-04T05:42:44.755Z",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song1730588016193",
+  "spotifyLink": "https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3?si=8749ec6648084a5b",
+  "addedBy": "user123",
+  "dateCreated": "2024-11-02T22:53:36.193Z",
+  "comments": [],
+  "likes": []
+},
+{
+  "_id": "song1730588253291",
+  "spotifyLink": "https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3?si=0b77a81922564862",
+  "addedBy": "user123",
+  "dateCreated": "2024-11-02T22:57:33.291Z",
+  "comments": [],
+  "likes": []
+}]

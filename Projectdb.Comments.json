@@ -1,0 +1,45 @@
+[{
+  "_id": "comment2",
+  "text": "My fave rn",
+  "userId": "user456",
+  "relatedTo": {
+    "type": "playlist",
+    "id": "plalist1"
+  }
+},
+{
+  "_id": "comment5",
+  "text": "Best song ever!",
+  "userId": "user123",
+  "relatedTo": {
+    "type": "song",
+    "id": "song3"
+  }
+},
+{
+  "_id": "comment1",
+  "text": "Great playlist! Really enjoyed it!",
+  "userId": "user456",
+  "relatedTo": {
+    "type": "playlist",
+    "id": "plalist1"
+  }
+},
+{
+  "_id": "comment3",
+  "text": "Really enjoyed it!",
+  "userId": "user456",
+  "relatedTo": {
+    "type": "playlist",
+    "id": "plalist2"
+  }
+},
+{
+  "_id": "comment4",
+  "text": "Great stuff!",
+  "userId": "user123",
+  "relatedTo": {
+    "type": "playlist",
+    "id": "plalist3"
+  }
+}]

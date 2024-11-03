@@ -1,0 +1,148 @@
+[{
+  "_id": "playlist1",
+  "playlistName": "Chill Beats",
+  "playlistImage": "/assets/images/Picture1.png",
+  "creator": "user123",
+  "songs": [
+    "song1",
+    "song2"
+  ],
+  "hashtags": [
+    "#chill",
+    "#beats",
+    "#relax"
+  ],
+  "dateCreated": "10/03/2024",
+  "comments": [
+    "comment1",
+    "comment2"
+  ]
+},
+{
+  "_id": "playlist12",
+  "playlistName": "Meh",
+  "playlistImage": "/assets/images/Picture1.png\n",
+  "creator": "user123",
+  "songs": [],
+  "hashtags": [
+    "#woah"
+  ],
+  "dateCreated": "12/05/2024",
+  "comments": [
+    "comment3"
+  ]
+},
+{
+  "_id": "playlist3",
+  "playlistName": "The Best",
+  "playlistImage": "/assets/images/Picture1.png",
+  "creator": "user456",
+  "songs": [
+    "song3",
+    "song4"
+  ],
+  "hashtags": [
+    "#mass",
+    "#forthemachas"
+  ],
+  "dateCreated": "11/03/2024",
+  "comments": [
+    "comment4"
+  ]
+},
+{
+  "_id": "playlist1730582239957",
+  "playlistName": "hjk",
+  "playlistImage": "/assets/images/Picture1.png\n",
+  "creator": "user123",
+  "songs": [],
+  "hashtags": [
+    "#KabaliForLife"
+  ],
+  "dateCreated": "11/2/2024",
+  "comments": []
+},
+{
+  "_id": "playlist1730582357688",
+  "playlistName": "hjk",
+  "playlistImage": "/assets/images/Picture1.png",
+  "creator": "user123",
+  "songs": [],
+  "hashtags": [
+    "#asdf"
+  ],
+  "dateCreated": "11/2/2024",
+  "comments": []
+},
+{
+  "_id": "playlist1730582580408",
+  "playlistName": "jpgty",
+  "playlistImage": "/assets/images/Picture1.png",
+  "creator": "user123",
+  "songs": [],
+  "hashtags": [
+    "#Magazhchi"
+  ],
+  "dateCreated": "11/2/2024",
+  "comments": []
+},
+{
+  "_id": "playlist1730638953574",
+  "playlistName": "playlist1",
+  "playlistImage": "/assets/images/Picture1.png",
+  "creator": "user123",
+  "songs": [],
+  "hashtags": [
+    "#Magazhchi"
+  ],
+  "dateCreated": "11/3/2024",
+  "comments": []
+},
+{
+  "_id": "playlist11",
+  "playlistName": "Chill Vibes",
+  "playlistImage": "/assets/images/Picture1.png",
+  "hashtags": [
+    "chill",
+    "relaxing"
+  ],
+  "creator": "user124",
+  "dateCreated": "11/01/2024",
+  "songs": []
+},
+{
+  "_id": "playlist21",
+  "playlistName": "Rock Classics",
+  "playlistImage": "/assets/images/Picture1.png\n",
+  "hashtags": [
+    "rock",
+    "classic"
+  ],
+  "creator": "user125",
+  "dateCreated": "11/02/2024",
+  "songs": []
+},
+{
+  "_id": "playlist31",
+  "playlistName": "Jazz Nights",
+  "playlistImage": "/assets/images/Picture1.png",
+  "hashtags": [
+    "jazz",
+    "evening"
+  ],
+  "creator": "user126",
+  "dateCreated": "11/03/2024",
+  "songs": []
+},
+{
+  "_id": "playlist41",
+  "playlistName": "Pop Hits",
+  "playlistImage": "/assets/images/Picture1.png",
+  "hashtags": [
+    "pop",
+    "top charts"
+  ],
+  "creator": "user127",
+  "dateCreated": "11/04/2024",
+  "songs": []
+}]

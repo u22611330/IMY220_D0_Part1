@@ -1,0 +1,210 @@
+[{
+  "_id": "user123",
+  "email": "mary@gmail.com",
+  "password": "Rajini12",
+  "profile": {
+    "fullname": "Mary-Jane Pandaram",
+    "socials": {
+      "twitter": "https://twitter.com/johndoe",
+      "instagram": "https://www.instagram.com/257mjp?igsh=MTVwdDVuMnIxM2ozdg%3D%3D&utm_source=qr"
+    },
+    "bio": "Music enthusiast",
+    "faveGenres": [
+      "pop",
+      "rock"
+    ],
+    "songsAdded": [
+      "song1",
+      "song2"
+    ],
+    "playlistsAdded": [
+      "playlist1",
+      "playlist2"
+    ]
+  },
+  "friends": [
+    "user456"
+  ],
+  "friendrequests": "[]"
+},
+{
+  "_id": "user456",
+  "email": "rajini@gmail.com",
+  "password": "Rajini12",
+  "profile": {
+    "fullname": "Thalaivar",
+    "socials": {
+      "instagram": "https://www.instagram.com/rajinikanth?igsh=bTZ6bmRtY2RvNXMy"
+    },
+    "bio": "Music Maker",
+    "faveGenres": [
+      "pop",
+      "rock"
+    ],
+    "songsAdded": [
+      "song3",
+      "song4",
+      "song5"
+    ],
+    "playlistsAdded": [
+      "playlist3"
+    ]
+  },
+  "friends": [
+    "user123"
+  ],
+  "friendrequests": "[]"
+},
+{
+  "_id": "user1728007897627",
+  "email": "cuan45@gmail.com",
+  "password": "123456",
+  "profile": {
+    "fullname": "",
+    "bio": "",
+    "socials": {},
+    "faveGenres": []
+  }
+},
+{
+  "_id": "user1728008029839",
+  "email": "cuan23@gmail.com",
+  "password": "123456",
+  "profile": {
+    "fullname": "",
+    "bio": "",
+    "socials": {},
+    "faveGenres": []
+  }
+},
+{
+  "_id": "user1728008385438",
+  "email": "u22611330@tuks.co.za",
+  "password": "123456",
+  "profile": {
+    "fullname": "",
+    "bio": "",
+    "socials": {},
+    "faveGenres": []
+  }
+},
+{
+  "_id": "user1728008815823",
+  "email": "sptpmjp@gmail.com",
+  "password": "123456",
+  "profile": {
+    "fullname": "",
+    "bio": "",
+    "socials": {},
+    "faveGenres": [],
+    "songsAdded": []
+  }
+},
+{
+  "_id": "user1728009057715",
+  "email": "sv@gmail.com",
+  "password": "234567",
+  "profile": {
+    "fullname": "Savy V",
+    "bio": "I love music",
+    "socials": {
+      "instagram": "https://www.instagram.com/lycaproductions/?hl=en"
+    },
+    "faveGenres": [
+      "rock"
+    ],
+    "songsAdded": []
+  }
+},
+{
+  "_id": "user124",
+  "email": "alice@example.com",
+  "password": "Password1!",
+  "profile": {
+    "fullname": "Alice Smith",
+    "socials": {
+      "twitter": "https://twitter.com/alicesmith",
+      "instagram": "https://www.instagram.com/alicesmith"
+    },
+    "bio": "Avid traveler and music lover",
+    "faveGenres": [
+      "jazz",
+      "blues"
+    ],
+    "songsAdded": [],
+    "playlistsAdded": []
+  },
+  "friends": [
+    "user457"
+  ],
+  "friendrequests": "[]"
+},
+{
+  "_id": "user125",
+  "email": "bob@example.com",
+  "password": "SecurePass123!",
+  "profile": {
+    "fullname": "Bob Johnson",
+    "socials": {
+      "twitter": "https://twitter.com/bobjohnson",
+      "instagram": "https://www.instagram.com/bobjohnson"
+    },
+    "bio": "Loves rock music and vintage guitars",
+    "faveGenres": [
+      "rock",
+      "metal"
+    ],
+    "songsAdded": [],
+    "playlistsAdded": []
+  },
+  "friends": [
+    "user458"
+  ],
+  "friendrequests": "[]"
+},
+{
+  "_id": "user126",
+  "email": "charlie@example.com",
+  "password": "MyPassw0rd!",
+  "profile": {
+    "fullname": "Charlie Brown",
+    "socials": {
+      "twitter": "https://twitter.com/charliebrown",
+      "instagram": "https://www.instagram.com/charliebrown"
+    },
+    "bio": "Jazz musician and composer",
+    "faveGenres": [
+      "jazz",
+      "classical"
+    ],
+    "songsAdded": [],
+    "playlistsAdded": []
+  },
+  "friends": [
+    "user459"
+  ],
+  "friendrequests": "[]"
+},
+{
+  "_id": "user127",
+  "email": "diana@example.com",
+  "password": "DianaPass123!",
+  "profile": {
+    "fullname": "Diana Prince",
+    "socials": {
+      "twitter": "https://twitter.com/dianaprince",
+      "instagram": "https://www.instagram.com/dianaprince"
+    },
+    "bio": "Pop music enthusiast and dancer",
+    "faveGenres": [
+      "pop",
+      "dance"
+    ],
+    "songsAdded": [],
+    "playlistsAdded": []
+  },
+  "friends": [
+    "user460"
+  ],
+  "friendrequests": "[]"
+}]
